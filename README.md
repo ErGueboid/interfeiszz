@@ -59,7 +59,7 @@ menuflask/
 
 ## 🖼️ Captura de pantalla
 
-![Captura del menú](capturing(2).png)
+![Captura del menú](capturing (2).png)
 
 ---
 
